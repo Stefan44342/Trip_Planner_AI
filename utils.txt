@@ -1,0 +1,25 @@
+vite
+tailwind css
+react router
+
+ES7 REact?redux
+tailwind css intellisense
+npm install --save react-google-places-autocomplete
+npm install mapbox-gl @mapbox/mapbox-gl-geocoder
+npx shadcn@latest add input
+npm install react-toastify
+npm install @google/generative-ai
+npm i @react-oauth/google
+client id=535691081775-6bcbv5fv9nqcmrvleqbo2fm6i060tl98.apps.googleusercontent.com
+port 5173
+npx shadcn@latest add dialog
+npm i react-icons
+npm i axios
+npm install firebase
+npx shadcn@latest add popover
+npm install express axios cors dotenv
+npm install nodemon --save-dev
+npm install concurrently --save-dev
+npm install date-fns
+npx shadcn@latest add calendar
+npm install recharts
